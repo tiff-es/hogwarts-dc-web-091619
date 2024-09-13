@@ -5,9 +5,9 @@
   "dependencies": {
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-1": "^6.24.1",
-    "react": "^15.6.2",
-    "react-dom": "^15.6.2",
-    "semantic-ui-css": "^2.2.11"
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0",
+    "semantic-ui-css": "^2.5.0"
   },
   "devDependencies": {
     "autoprefixer": "7.1.0",
